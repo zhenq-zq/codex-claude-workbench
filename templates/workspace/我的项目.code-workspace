@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "name": "我的项目",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorTheme": "Default Light Modern",
+    "files.exclude": {
+      "**/.git": true,
+      "**/AGENTS.md": true,
+      "**/CLAUDE.md": true,
+      "**/PROJECT_MEMORY.md": true,
+      "**/TASK.md": true,
+      "**/我的项目.code-workspace": true
+    },
+    "explorer.sortOrder": "default"
+  },
+  "extensions": {
+    "recommendations": [
+      "OpenAI.chatgpt",
+      "anthropic.claude-code"
+    ]
+  }
+}

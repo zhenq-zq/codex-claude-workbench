@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+.downloads/
+node_modules/
+__pycache__/
+.cache/
+
+.qa/
