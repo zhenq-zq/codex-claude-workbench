@@ -1,5 +1,7 @@
 # 🧬 AI 科研工作台 · Codex × Claude
 
+> **分类：工作台与模板** · 本仓库提供 Codex × Claude 的部署脚本和项目模板。文字指南与 PDF 见[科研工作台部署教程](https://github.com/zhenq-zq/ai-research-workbench-share)。
+
 **你定方向，Codex 拆任务，Claude 执行，Codex 与你一起复核。**
 
 把下面这段连同本仓库链接交给你的 AI，按指南搭建同款工作台。
